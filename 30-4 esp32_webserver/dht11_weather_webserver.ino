@@ -1,7 +1,6 @@
 // Importar bibliotecas necessárias
 #include <WiFi.h>
 
-
 // Instalar a biblioteca e todas as dependências
 #include <ESPAsyncWebServer.h>
 #include <DHT.h>
